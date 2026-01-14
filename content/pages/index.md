@@ -64,10 +64,13 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Descubre el alma de Ecuador en cada
+          barra. Nuestra colección de chocolate
+          fino de aroma ha sido creada para
+          quienes buscan no solo un dulce, sino
+          un viaje sensorial completo. Al ser
+          productos que no contienen
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
