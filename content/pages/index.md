@@ -13,7 +13,7 @@ sections:
       a una tradición milenaria y a una materia prima excepcional. La joya de su
       corona es la variedad nativa conocida como Cacao Nacional
     actions:
-      - label: Get started
+      - label: Compra Ahora
         altText: ''
         url: /
         showIcon: false
