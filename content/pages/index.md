@@ -14,7 +14,7 @@ sections:
       corona es la variedad nativa conocida como Cacao Nacional
     actions:
       - label: Compra Ahora
-        altText: ''
+        altText: ss
         url: /
         showIcon: true
         icon: arrowRight
