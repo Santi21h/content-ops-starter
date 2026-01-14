@@ -8,10 +8,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Calidad única
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: |
+      Nuestro cacao es reconocido mundialmente como uno de los mejores, gracias
+      a una tradición milenaria y a una materia prima excepcional. La joya de su
+      corona es la variedad nativa conocida como Cacao Nacional
     actions:
       - label: Get started
         altText: ''
