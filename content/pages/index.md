@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Huirac Chocolate
+      label: sobre nosotros
       color: text-primary
       type: Badge
     elementId: ''
